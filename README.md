@@ -19,7 +19,8 @@
 > 目效果图 / GIF
 
 <img width="1920" height="872" alt="image" src="https://github.com/user-attachments/assets/0001ff15-0af6-471c-a569-29353b7fdd22" />
-![ezgif-83e6bd3c7181148c](https://github.com/user-attachments/assets/1cb75b98-a169-4b9a-a511-38c01e58a211)
+
+![ezgif-83e6bd3c7181148c](https://github.com/user-attachments/assets/8c61d93c-b1a4-4aed-852f-9d3fd6baf37d)
 
 
 
